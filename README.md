@@ -4,7 +4,7 @@
 
 ## 📋 Project Overview
 
-In this project, I **developed** a comprehensive HR analytics solution to uncover the underlying causes of employee turnover. Starting from a raw dataset (Excel/CSV), I **built** an interactive Power BI dashboard through data cleaning and modeling to effectively support HR management in their decision-making process.
+In this project, I **developed** a comprehensive HR analytics solution to uncover the underlying causes of employee turnover. Starting from a raw dataset (Excel), I **built** an interactive Power BI dashboard through data cleaning and modeling to effectively support HR management in their decision-making process.
 
 ## 🎯 Project Goals
 
@@ -15,7 +15,7 @@ My primary goal was to identify which employee segments are most at risk of leav
 1.  **Data Acquisition & Preparation:** I **processed** a relational database consisting of multiple tables (HR Data, Job Roles, Departments, and Education).
 2.  **Data Cleaning (Power Query):** I **configured** and **standardized** appropriate data types, **handled** missing values for more precise segmentation.
 
-3.  **Data Modeling:** I **established** a Star Schema between the fact table (`HR_Data`) and the dimension tables (`Departments`, `Jobs`, `Education`).
+3.  **Data Modeling:** I **established** a Star Schema between the fact table (`HR_Data`) and the dimension tables (`Departments`, `Jobs`, `Education`):
 
 ![Data_Modell](06_Data_Modelling.png)
 
